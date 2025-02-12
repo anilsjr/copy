@@ -1,0 +1,46 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container styling */
+.container {
+    margin-top: 50px;
+}
+
+/* Header styling */
+h2 {
+    margin-bottom: 20px;
+    color: #343a40;
+}
+
+/* Data box styling */
+#data {
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+/* Button styling */
+#copy-Button {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* Footer styling */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    margin: 5px;
+}
